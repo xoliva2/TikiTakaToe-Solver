@@ -425,17 +425,24 @@ vector<string> indirectTransferCheck(pair<int, pair<string, string>> firstTeam, 
     
     while (getline(leagueFile, line)) {
         istringstream iss(line);
-        string clubName, playerName, clubInvolvedName, age, position;
+        string clubName, playerName, clubInvolvedName, age, position,year, dummy;
         getline(iss, clubName, ',');
         getline(iss, playerName, ',');
         getline(iss, age, ',');
         getline(iss, position, ',');
         getline(iss, clubInvolvedName, ',');
+        for (int i = 0; i < 5; i++) {
+            std::getline(iss, dummy, ',');
+        }
+        getline(iss, year, ',');
+        
+        
         
         if (clubName == firstTeam.second.first && clubInvolvedName != secondTeam.second.second){
             // cout<<playerName<<", "<<clubInvolvedName<<", "<<secondTeamString<< endl;
             
             playerNameVector.push_back(playerName);
+            cout<<playerName<<", " <<year<<endl;
             // std::cout << "Player Name: " << playerName << std::endl;
             
         }
@@ -454,12 +461,16 @@ vector<string> indirectTransferCheck(pair<int, pair<string, string>> firstTeam, 
         string bruh;
         while (getline(leagueFile, bruh)) {
         istringstream iss(bruh);
-        string clubName, playerName, clubInvolvedName, age, position;
+        string clubName, playerName, clubInvolvedName, age, position, year, dummy;
         getline(iss, clubName, ',');
         getline(iss, playerName, ',');
         getline(iss, age, ',');
         getline(iss, position, ',');
         getline(iss, clubInvolvedName, ',');
+        for (int i = 0; i < 5; i++) {
+            std::getline(iss, dummy, ',');
+        }
+        getline(iss, year, ',');
         for (const auto& curName : playerNameVector) {
         
         // Perform operations on the filename here
