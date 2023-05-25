@@ -1,0 +1,18 @@
+Feyenoord Rotterdam (Feyenoord in club_involved_name)
+PSV Eindhoven
+Ajax Amsterdam (Ajax in club_involved_name)
+AZ Alkmaar
+Twente Enschede FC (Twente FC in club_involved_name)
+Sparta Rotterdam (Sparta R. in club_involved_name)
+FC Utrecht
+SC Heerenveen (Heerenveen in club_involved_name)
+RKC Waalwijk
+Go Ahead Eagles
+NEC Nijmegen
+Vitesse Arnhem (Vitesse in club_involved_name)
+Fortuna Sittard
+FC Volendam
+Excelsior Rotterdam (Excelsior in club_involved_name)
+FC Emmen
+FC Groningen
+SC Cambuur-Leeuwarden (SC Cambuur in club_involved_name)

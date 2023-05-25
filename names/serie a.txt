@@ -1,0 +1,20 @@
+SSC Napoli (Napoli in club_involved_name)
+SS Lazio (Lazio in club_involved_name)
+FC Internazionale (Inter in club_involved_name)
+AC Milan
+Atalanta BC
+AS Roma
+Juventus FC (Juventus in club_involved_name)
+AC Monza (Monza in club_involved_name)
+Bologna FC 1909 (Bologna in club_involved_name)
+Torino Calcio (Torino)
+AC Fiorentina (Fiorentina in club_involved_name)
+Udinese Calcio (Udinese in club_involved_name)
+US Sassuolo (Sassuolo in club_involved_name)
+Empoli FC (Empoli in club_involved_name)
+US Salernitana 1919 (Salernitana in club_involved_name)
+US Lecce (Lecce in club_involved_name)
+Spezia Calcio
+Hellas Verona
+US Cremonese (Cremonese in club_involved_name)
+UC Sampdoria (Sampdoria in club_involved_name)

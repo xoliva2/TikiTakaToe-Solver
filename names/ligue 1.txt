@@ -1,0 +1,20 @@
+Paris Saint-Germain (Paris SG in club_involved_name)
+RC Lens (Lens in club_involved_name)
+Olympique Marseille (Marseille in club_involved_name)
+AS Monaco (Monaco in club_involved_name)
+LOSC Lille
+Stade Rennais FC (Stade Rennais in club_involved_name)
+Olympique Lyon
+Clermont Foot 63 (Clermont Foot in club_involved_name)
+OGC Nice
+FC Lorient
+Stade Reims
+Montpellier HSC (Montpellier in club_involved_name)
+FC Toulouse (Toulouse in club_involved_name)
+Stade Brestois 29 (Stade Brestois in club_involved_name)
+RC Strasbourg Alsace (R. Strasbourg in club_involved_name)
+AJ Auxerre
+FC Nantes
+ESTAC Troyes (Troyes in club_involved_name)
+AC Ajaccio
+Angers SCO

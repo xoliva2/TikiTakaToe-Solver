@@ -1,0 +1,18 @@
+SL Benfica (Benfica in club_involved_name)
+FC Porto
+SC Braga
+Sporting CP
+Vitória Guimarães SC (Vit. Guimarães in club_involved_name)
+FC Arouca (Arouca in club_involved_name)
+GD Chaves (Chaves in club_involved_name)
+FC Famalicão (Famalicão in club_involved_name)
+Casa Pia AC (Casa Pia in club_involved_name)
+Boavista FC (Boavista in club_involved_name)
+FC Vizela (Vizela in club_involved_name)
+Rio Ave FC
+Portimonense SC (Portimonense in club_involved_name)
+Gil Vicente FC (Gil Vicente in club_involved_name)
+GD Estoril Praia (Estoril Praia in club_involved_name)
+CS Marítimo (Marítimo in club_involved_name)
+FC Paços de Ferreira (Paços Ferreira in club_involved_name)
+CD Santa Clara (Santa Clara in club_involved_name)

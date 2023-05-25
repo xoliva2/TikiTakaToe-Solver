@@ -1,0 +1,18 @@
+Borussia Dortmund (B. Dortmund in club_involved_name)
+Bayern Munich
+RB Leipzig
+Union Berlin
+SC Freiburg
+Bayer 04 LeverKusen (Bay. Leverkusen in club_involved_name)
+VfL Wolfsburg
+Eintracht Frankfurt (E. Frankfurt in club_involved_name)
+1.FSV Mainz 05
+1. FC Köln
+Borussia Mönchengladbach (Bor. M'gladbach in club_involved_name)
+SV Werder Bremen (Werder Bremen in club_involved_name)
+TSG 1899 Hoffenheim (TSG Hoffenheim in club_involved_name)
+FC Augsburg
+VfB Stuttgart
+VfL Bochum
+FC Schalke 04
+Hertha BSC

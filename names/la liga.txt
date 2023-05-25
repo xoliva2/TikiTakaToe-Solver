@@ -1,0 +1,20 @@
+FC Barcelona (Barcelona in club_involved_name)
+Atlético de Madrid (Atlético Madrid in club_involved_name)
+Real Madrid
+Real Sociedad
+Villarreal CF (Villarreal in club_involved_name)
+Real Betis Balompié (Real Betis in club_involved_name)
+Athletic Bilbao (Athletic in club_involved_name)
+Girona FC (Girona in club_involved_name)
+Sevilla FC
+CA Osasuna
+Rayo Vallecano
+RCD Mallorca
+Valencia CF (Valencia in club_involved_name)
+Celta de Vigo
+UD Almería
+Cádiz CF
+Real Valladolid CF (Real Valladolid in club_involved_name)
+Getafe CF (Getafe in club_involved_name)
+RCD Espanyol Barcelona (Espanyol in club_involved_name)
+Elche CF
