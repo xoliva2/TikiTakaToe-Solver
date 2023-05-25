@@ -52,7 +52,7 @@ int main(){
     //...by using the name of the players in the transfers for..
     //...the team in their league csv. (you know what i mean)
 
-    // function not done
+
     playerNameVector = indirectTransferCheck(firstTeam, secondTeam);
     if (playerNameVector.empty()) {
         std::cout << "No links found. Sorry." << std::endl;
