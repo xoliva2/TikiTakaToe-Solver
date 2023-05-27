@@ -329,48 +329,17 @@ pair<int, pair<string, string>> pickTeam(){
 
 vector<string> directTransferCheck(int firstTeamLeagueNum, string firstTeamString, string secondTeamString){
     ifstream leagueFile;
-    switch(firstTeamLeagueNum){
-        case 1:
-            // Bundesliga
-            leagueFile.open("data/1-bundesliga.csv");
+    std::vector<std::string> fileVector = {
+        "data/1-bundesliga.csv", "data/eredivisie.csv", "data/liga-nos.csv",
+        "data/ligue-1.csv", "data/premier-league.csv", "data/primera-division.csv",
+        "data/serie-a.csv"
+    };
 
-            break;
-        case 2:
-            // Eredivisie
-            leagueFile.open("data/eredivisie.csv");
-
-            break;
-        case 3:
-            // Liga NOS
-            leagueFile.open("data/liga-nos.csv");
-
-            break;
-        case 4:
-            // Ligue 1
-            leagueFile.open("data/ligue-1.csv");
-
-            break;
-        case 5:
-            // Premier League
-            leagueFile.open("data/premier-league.csv");
-
-            break;
-        case 6:
-            // La Liga
-            leagueFile.open("data/primera-division.csv");
-
-            break;
-        case 7:
-            // Serie A
-            leagueFile.open("data/serie-a.csv");
-
-            break;
-        default:
-            cout<<"ERROR";
-            break;
-
-
-    }
+    
+    ifstream leagueFile;
+    int bracketNum = firstTeamLeagueNum-1;
+    leagueFile.open(fileVector[bracketNum]);
+    fileVector.erase(fileVector.begin()+bracketNum );
     
 
     //have: leagueFile, both team strings.
@@ -442,7 +411,7 @@ vector<string> indirectTransferCheck(pair<int, pair<string, string>> firstTeam, 
             // cout<<playerName<<", "<<clubInvolvedName<<", "<<secondTeamString<< endl;
             
             playerNameVector.push_back(playerName);
-            cout<<playerName<<", " <<year<<endl;
+            // cout<<playerName<<", " <<year<<endl;
             // std::cout << "Player Name: " << playerName << std::endl;
             
         }
